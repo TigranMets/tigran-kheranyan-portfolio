@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.adf8c8fb.chunk.css",
-    "main.js": "/static/js/main.df3ffe06.chunk.js",
-    "main.js.map": "/static/js/main.df3ffe06.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bc431a78.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bc431a78.js.map",
-    "static/js/2.91c3abd9.chunk.js": "/static/js/2.91c3abd9.chunk.js",
-    "static/js/2.91c3abd9.chunk.js.map": "/static/js/2.91c3abd9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.adf8c8fb.chunk.css.map": "/static/css/main.adf8c8fb.chunk.css.map",
-    "static/js/2.91c3abd9.chunk.js.LICENSE.txt": "/static/js/2.91c3abd9.chunk.js.LICENSE.txt",
-    "static/media/JsConf.03434903.jpg": "/static/media/JsConf.03434903.jpg",
-    "static/media/SmartHome.5ee61402.jpg": "/static/media/SmartHome.5ee61402.jpg",
-    "static/media/TigranTumo.3189be0f.jpg": "/static/media/TigranTumo.3189be0f.jpg",
-    "static/media/Tikoit.ae11d1e4.jpg": "/static/media/Tikoit.ae11d1e4.jpg"
+    "main.css": "/app123/static/css/main.adf8c8fb.chunk.css",
+    "main.js": "/app123/static/js/main.df3ffe06.chunk.js",
+    "main.js.map": "/app123/static/js/main.df3ffe06.chunk.js.map",
+    "runtime-main.js": "/app123/static/js/runtime-main.3d7f5e34.js",
+    "runtime-main.js.map": "/app123/static/js/runtime-main.3d7f5e34.js.map",
+    "static/js/2.91c3abd9.chunk.js": "/app123/static/js/2.91c3abd9.chunk.js",
+    "static/js/2.91c3abd9.chunk.js.map": "/app123/static/js/2.91c3abd9.chunk.js.map",
+    "index.html": "/app123/index.html",
+    "static/css/main.adf8c8fb.chunk.css.map": "/app123/static/css/main.adf8c8fb.chunk.css.map",
+    "static/js/2.91c3abd9.chunk.js.LICENSE.txt": "/app123/static/js/2.91c3abd9.chunk.js.LICENSE.txt",
+    "static/media/JsConf.03434903.jpg": "/app123/static/media/JsConf.03434903.jpg",
+    "static/media/SmartHome.5ee61402.jpg": "/app123/static/media/SmartHome.5ee61402.jpg",
+    "static/media/TigranTumo.3189be0f.jpg": "/app123/static/media/TigranTumo.3189be0f.jpg",
+    "static/media/Tikoit.ae11d1e4.jpg": "/app123/static/media/Tikoit.ae11d1e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc431a78.js",
+    "static/js/runtime-main.3d7f5e34.js",
     "static/js/2.91c3abd9.chunk.js",
     "static/css/main.adf8c8fb.chunk.css",
     "static/js/main.df3ffe06.chunk.js"
