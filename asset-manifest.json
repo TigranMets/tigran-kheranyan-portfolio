@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app123/static/css/main.0fa6ead3.chunk.css",
+    "main.css": "/app123/static/css/main.a800d7c1.chunk.css",
     "main.js": "/app123/static/js/main.1f17eab0.chunk.js",
     "main.js.map": "/app123/static/js/main.1f17eab0.chunk.js.map",
     "runtime-main.js": "/app123/static/js/runtime-main.3d7f5e34.js",
@@ -8,7 +8,7 @@
     "static/js/2.f01c800e.chunk.js": "/app123/static/js/2.f01c800e.chunk.js",
     "static/js/2.f01c800e.chunk.js.map": "/app123/static/js/2.f01c800e.chunk.js.map",
     "index.html": "/app123/index.html",
-    "static/css/main.0fa6ead3.chunk.css.map": "/app123/static/css/main.0fa6ead3.chunk.css.map",
+    "static/css/main.a800d7c1.chunk.css.map": "/app123/static/css/main.a800d7c1.chunk.css.map",
     "static/js/2.f01c800e.chunk.js.LICENSE.txt": "/app123/static/js/2.f01c800e.chunk.js.LICENSE.txt",
     "static/media/JsConf.03434903.jpg": "/app123/static/media/JsConf.03434903.jpg",
     "static/media/SmartHome.5ee61402.jpg": "/app123/static/media/SmartHome.5ee61402.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3d7f5e34.js",
     "static/js/2.f01c800e.chunk.js",
-    "static/css/main.0fa6ead3.chunk.css",
+    "static/css/main.a800d7c1.chunk.css",
     "static/js/main.1f17eab0.chunk.js"
   ]
 }
