@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/tigran-kheranyan-portfolio/static/css/main.ebef4bcc.chunk.css",
-    "main.js": "/tigran-kheranyan-portfolio/static/js/main.0f9cb3b7.chunk.js",
-    "main.js.map": "/tigran-kheranyan-portfolio/static/js/main.0f9cb3b7.chunk.js.map",
+    "main.css": "/tigran-kheranyan-portfolio/static/css/main.e58e2ca3.chunk.css",
+    "main.js": "/tigran-kheranyan-portfolio/static/js/main.c21a36dd.chunk.js",
+    "main.js.map": "/tigran-kheranyan-portfolio/static/js/main.c21a36dd.chunk.js.map",
     "runtime-main.js": "/tigran-kheranyan-portfolio/static/js/runtime-main.b001cf18.js",
     "runtime-main.js.map": "/tigran-kheranyan-portfolio/static/js/runtime-main.b001cf18.js.map",
-    "static/js/2.fc258394.chunk.js": "/tigran-kheranyan-portfolio/static/js/2.fc258394.chunk.js",
-    "static/js/2.fc258394.chunk.js.map": "/tigran-kheranyan-portfolio/static/js/2.fc258394.chunk.js.map",
+    "static/js/2.491007d2.chunk.js": "/tigran-kheranyan-portfolio/static/js/2.491007d2.chunk.js",
+    "static/js/2.491007d2.chunk.js.map": "/tigran-kheranyan-portfolio/static/js/2.491007d2.chunk.js.map",
     "index.html": "/tigran-kheranyan-portfolio/index.html",
-    "static/css/main.ebef4bcc.chunk.css.map": "/tigran-kheranyan-portfolio/static/css/main.ebef4bcc.chunk.css.map",
-    "static/js/2.fc258394.chunk.js.LICENSE.txt": "/tigran-kheranyan-portfolio/static/js/2.fc258394.chunk.js.LICENSE.txt",
-    "static/media/JsConf.03434903.jpg": "/tigran-kheranyan-portfolio/static/media/JsConf.03434903.jpg",
-    "static/media/TigranRAU.4848e9a9.jpg": "/tigran-kheranyan-portfolio/static/media/TigranRAU.4848e9a9.jpg",
-    "static/media/Tikoit.ae11d1e4.jpg": "/tigran-kheranyan-portfolio/static/media/Tikoit.ae11d1e4.jpg",
+    "static/css/main.e58e2ca3.chunk.css.map": "/tigran-kheranyan-portfolio/static/css/main.e58e2ca3.chunk.css.map",
+    "static/js/2.491007d2.chunk.js.LICENSE.txt": "/tigran-kheranyan-portfolio/static/js/2.491007d2.chunk.js.LICENSE.txt",
+    "static/media/JsConf.03434903.WebP": "/tigran-kheranyan-portfolio/static/media/JsConf.03434903.WebP",
+    "static/media/TigranRAU.4848e9a9.WebP": "/tigran-kheranyan-portfolio/static/media/TigranRAU.4848e9a9.WebP",
+    "static/media/Tikoit.ae11d1e4.WebP": "/tigran-kheranyan-portfolio/static/media/Tikoit.ae11d1e4.WebP",
+    "static/media/globalItOldLogo.WebP": "/tigran-kheranyan-portfolio/static/media/globalItOldLogo.cf1b160a.WebP",
     "static/media/hamburgerMenu.b54331c1.WebP": "/tigran-kheranyan-portfolio/static/media/hamburgerMenu.b54331c1.WebP",
-    "static/media/meAtSystemProgrammingConferanceAtRAU.14b32ba3.jpg": "/tigran-kheranyan-portfolio/static/media/meAtSystemProgrammingConferanceAtRAU.14b32ba3.jpg"
+    "static/media/meAtSystemProgrammingConferanceAtRAU.14b32ba3.WebP": "/tigran-kheranyan-portfolio/static/media/meAtSystemProgrammingConferanceAtRAU.14b32ba3.WebP",
+    "static/media/teslaSemi.WebP": "/tigran-kheranyan-portfolio/static/media/teslaSemi.8a858f47.WebP"
   },
   "entrypoints": [
     "static/js/runtime-main.b001cf18.js",
-    "static/js/2.fc258394.chunk.js",
-    "static/css/main.ebef4bcc.chunk.css",
-    "static/js/main.0f9cb3b7.chunk.js"
+    "static/js/2.491007d2.chunk.js",
+    "static/css/main.e58e2ca3.chunk.css",
+    "static/js/main.c21a36dd.chunk.js"
   ]
 }
