@@ -20,7 +20,7 @@ const SocialMedia = ({ componentForUse }) => {
             href: 'https://www.linkedin.com/in/tigran-kheranyan-65ab58202/'
         },
         {
-            iconSrc: 'https://assets.stickpng.com/images/653197f73d241748b219b4b4.png',
+            iconSrc: 'https://static.vecteezy.com/system/resources/previews/027/395/710/non_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png',
             iconAlt: 'X',
             href: 'https://twitter.com/TigranMetc2'
         },

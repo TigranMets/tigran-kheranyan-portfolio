@@ -5,7 +5,7 @@ import ExperienceCard from './ExperienceCard';
 const Experiences = () => {
     let cards = [{
         companyName: 'Global It',
-        companyImageSrc: require('../../assets/images/globalItOldLogo.WebP').default,
+        companyImageSrc: require('../../assets/images/globalItOldLogo.WebP'),
         job: 'Frontend developer',
         jobExperience: '8 ամիս',
         impressions: "it's my first job. I am really excited where i am working."

@@ -5,13 +5,13 @@ import BigProjectCard from './BigProjectCard/BigProjectCard';
 const BigProjects = () => {
     const cards = [
         {
-            imgSrc: require('../../assets/images/globalItOldLogo.WebP').default,
+            imgSrc: require('../../assets/images/globalItOldLogo.WebP'),
             imgAlt: "Global It website",
             name: 'Global It website',
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
         },
         {
-            imgSrc: require('../../assets/images/teslaSemi.WebP').default,
+            imgSrc: require('../../assets/images/teslaSemi.WebP'),
             imgAlt: "avto's image",
             name: 'Project2',
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
