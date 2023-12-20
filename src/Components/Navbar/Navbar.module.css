@@ -1,0 +1,117 @@
+nav {
+    display: flex;
+    position: sticky;
+    background-color: var(--dark-purple, white);
+    top: 0;
+    z-index: 2;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px 0px 20px;
+    transition: top 0.3s;
+}
+
+.logo {
+    font-size: 34.7px;
+    color: red;
+    text-decoration: none;
+}
+
+.menuItems {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menuItems a {
+    font-size: 19px;
+    padding: 15px 20px;
+    color: var(--white, black);
+
+}
+
+.menuItems a:hover {
+    background-color: var(--purple, #f4f4f4);
+}
+
+.themeToggle {
+    position: relative;
+    height: fit-content;
+    padding: 20px;
+}
+
+.menuItems a:hover .themeToggle {
+    background: #f0f2f3;
+}
+
+.toggleControl {
+    display: none;
+}
+
+label {
+    background-color: red;
+    border-radius: 60px;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+}
+
+label::before, label::after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 26px;
+    content: '';
+    transition: all 0.4s;
+}
+
+label::before {
+    background-color: #CCCCCC;
+    border-radius: 60px;
+}
+
+label::after {
+    width: 28px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.toggleControl:checked+label::before {
+    background-color: #2196f3;
+}
+
+.toggleControl:checked+label::after {
+    margin-left: 22.5px;
+}
+
+.hamburgerMenu {
+    display: none;
+}
+
+@media only screen and (max-width: 900px) {
+    nav {
+        padding-bottom: 10px;
+    }
+
+    .menuItems {
+        display: none;
+    }
+
+    .hamburgerActiveMenuItems {
+        display: flex;
+        position: absolute;
+        margin-top: 420px;
+        width: 100%;
+        margin-left: -20px;
+        background-color: var(--dark-purple, white);
+        flex-direction: column;
+    }
+
+    .themeToggle {
+        margin: 0px 0px 20px 20px;
+    }
+
+    .hamburgerMenu {
+        display: block;
+        width: 30px;
+    }
+}

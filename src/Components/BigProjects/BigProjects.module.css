@@ -1,0 +1,41 @@
+.bigProjectsWrapper {
+    padding: 90px 0px 20px 0px;
+}
+
+.bigProjects {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.description {
+    color: #868E96;
+    margin: 19px 0px;
+    font-size: 19px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 1rem 1rem;
+    gap: 1rem 1rem;
+}
+
+@media only screen and (max-width: 1368px) {
+    .bigProjects {
+        font-size: 44px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .bigProjectsWrapper {
+        text-align: center;
+    }
+
+    .bigProjects {
+        font-size: 34px;
+    }
+
+    .description {
+        font-size: 18px;
+    }
+}

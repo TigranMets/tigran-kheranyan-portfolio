@@ -1,0 +1,88 @@
+.skills {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px;
+    padding-top: 50px;
+}
+
+.Tigran_img {
+    height: 663px;
+    width: 45%;
+}
+
+.whatIDo {
+    width: 49%;
+    margin-left: 50px;
+}
+
+.header {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.aboutMe {
+    font-size: 23.5px;
+    color: #868E96;
+    margin: 29px 0px 30px 0px;
+}
+
+.languages {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.mySkillsWrapper {
+    margin-top: 30px;
+}
+
+.mySkillsWrapper p {
+    font-size: 23px;
+    margin-top: 20px;
+    color: #868E96;
+}
+
+@media screen and (max-width: 1380px) {
+    .header {
+        font-size: 44px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .skills {
+        flex-direction: column;
+        text-align: center;
+        padding-top: 144px;
+    }
+
+    .whatIDo {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .header {
+        font-size: 34px;
+    }
+
+    .aboutMe {
+        font-size: 19px;
+        margin: 21px 0px 19px 0px;
+    }
+
+    .mySkillsWrapper {
+        margin-top: 26px;
+    }
+
+    .mySkillsWrapper p {
+        margin-top: 16px;
+    }
+
+    .Tigran_img {
+        order: 2;
+        width: 100%;
+        max-width: 507px;
+        height: 360px;
+        margin-top: 36px;
+    }
+}

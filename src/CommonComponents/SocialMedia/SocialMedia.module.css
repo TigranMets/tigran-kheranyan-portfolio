@@ -1,0 +1,22 @@
+.socialMedia a {
+    display: inline-block;
+    margin-right: 13px;
+}
+
+.greetingSocialMedia a {
+    margin-top: 39.9px;
+}
+
+.footerSocialMedia a {
+    margin-top: 18px;
+}
+
+.socialMedia img {
+    height: 43px;
+}
+
+@media screen and (max-width: 435px) {
+    .greetingSocialMedia a {
+        margin: 22px 13px 0px 0px;
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tigran-kheranyan-portfolio/static/css/main.7f1c4dc1.css",
+    "main.js": "/tigran-kheranyan-portfolio/static/js/main.d6c2971b.js",
+    "static/media/meAtTheSatelliteControlPanel.Webp": "/tigran-kheranyan-portfolio/static/media/meAtTheSatelliteControlPanel.dcb1ee57ab43e12f78f8.Webp",
+    "static/media/globalItOldLogo.WebP": "/tigran-kheranyan-portfolio/static/media/globalItOldLogo.cf1b160ab2ba5cca5b09.WebP",
+    "static/media/meAtSystemProgrammingConferanceAtRAU.WebP": "/tigran-kheranyan-portfolio/static/media/meAtSystemProgrammingConferanceAtRAU.14b32ba3cad5f475072a.WebP",
+    "static/media/teslaSemi.WebP": "/tigran-kheranyan-portfolio/static/media/teslaSemi.8a858f478cb919a86266.WebP",
+    "static/media/JsConf.WebP": "/tigran-kheranyan-portfolio/static/media/JsConf.034349038baf521435a8.WebP",
+    "static/media/Tikoit.WebP": "/tigran-kheranyan-portfolio/static/media/Tikoit.ae11d1e48f2ac4fa2591.WebP",
+    "static/media/hamburgerMenu.WebP": "/tigran-kheranyan-portfolio/static/media/hamburgerMenu.b54331c1e31025984bf3.WebP",
+    "index.html": "/tigran-kheranyan-portfolio/index.html",
+    "main.7f1c4dc1.css.map": "/tigran-kheranyan-portfolio/static/css/main.7f1c4dc1.css.map",
+    "main.d6c2971b.js.map": "/tigran-kheranyan-portfolio/static/js/main.d6c2971b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1c4dc1.css",
+    "static/js/main.d6c2971b.js"
+  ]
+}

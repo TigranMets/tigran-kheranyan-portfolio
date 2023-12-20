@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    font-family: 'Roboto', sans-serif;
+}
+
+.app button {
+    background-color: var(--purple, red);
+    border: 1px solid var(--purple, red);
+    color: white;
+    border-radius: 5px;
+}
+
+.appDarkMode {
+    background-color: #171C28;
+    --dark-purple: #171C28;
+    --purple: #55198b;
+    --white: white;
+    --open-source-projects-hover-box-shadow: 0 0 16px #d9dbdf;
+    --experiences-card-box-shadow: none;
+    --big-projects-card-box-shadow: 0 10px 30px -15px #d9dbdf;
+    --big-projects-card-hover-box-shadow: 0 20px 30px -10px #d9dbdf;
+}
+
+.appDarkMode p, .appDarkMode span, .appDarkMode h1, .appDarkMode a {
+    color: white;
+}
+
+.appWrapper {
+    width: 90%;
+    margin: 0 auto;
+}

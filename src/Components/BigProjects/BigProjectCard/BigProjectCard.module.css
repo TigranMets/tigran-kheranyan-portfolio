@@ -1,0 +1,40 @@
+.card {
+    padding: 24px;
+    border-radius: 5px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+    text-align: center;
+    box-shadow: var(--big-projects-card-box-shadow, 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
+}
+
+.card:hover {
+    box-shadow: var(--big-projects-card-hover-box-shadow, 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
+    transition: 0.5s;
+}
+
+.card img {
+    height: 250px;
+    width: 250px;
+    margin-bottom: 15px;
+}
+
+.projectTitle {
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.projectDescription {
+    margin: 17px 0px;
+    font-size: 17px;
+    color: #868E96;
+}
+
+.visitButton {
+    font-size: 12px;
+    padding: 7px;
+}
+
+@media only screen and (max-width: 685px) {
+    .card:first-child {
+        margin-right: 0;
+    }
+}

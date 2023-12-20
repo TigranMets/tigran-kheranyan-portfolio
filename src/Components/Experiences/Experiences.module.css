@@ -1,0 +1,131 @@
+.experiences {
+    margin: 127px 0px 32px;
+    padding-top: 70px;
+}
+
+.headerExperiences {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.cardsBlock {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+}
+
+.experiencesCard {
+    width: 32.696759%;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: var(--experiences-card-box-shadow, 0 10px 30px -15px rgb(0 0 0 / 20%));
+    border: 1px solid hsla(0, 0%, 82.7%, .397);
+}
+
+.experiencesCard:hover {
+    box-shadow: var(--experiences-card-box-shadow, 0 20px 30px -10px rgb(0 0 0 / 20%));
+}
+
+.experiencesCard:last-child {
+    margin-right: 0;
+}
+
+.experiencesCardLightMode:hover {
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.company {
+    position: relative;
+    padding: 72px 0px;
+    color: white;
+    font-size: 27px;
+    border-radius: 5px;
+}
+
+.experiencesCard:nth-child(1) .company {
+    background-color: purple;
+}
+
+.aboutExperience {
+    padding: 1.5rem;
+}
+
+.companyImg {
+    position: absolute;
+    right: 50%;
+    top: 27%;
+    transform: translate(50%, 50%);
+    height: 128px;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 30%);
+    border-radius: 100px;
+}
+
+.aboutExperience {
+    margin-top: 56px;
+}
+
+.job {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.date {
+    margin: 16px 0px 19px 0px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.impressions {
+    color: #868E96;
+    font-size: 19px;
+}
+
+@media only screen and (max-width: 1380px) {
+    .headerExperiences {
+        font-size: 44px;
+    }
+
+    .companyImg {
+        height: 104px;
+        top: 35.9%;
+    }
+
+    .aboutExperience {
+        margin-top: 48px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .cardsBlock {
+        flex-wrap: wrap;
+    }
+
+    .experiencesCard {
+        flex: unset;
+        width: 48.88%;
+        margin-bottom: 17px;
+    }
+
+    .experiencesCard:nth-child(even) {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .headerExperiences {
+        text-align: center;
+        font-size: 34px;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .impressions {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .experiencesCard {
+        width: 100%;
+    }
+}
