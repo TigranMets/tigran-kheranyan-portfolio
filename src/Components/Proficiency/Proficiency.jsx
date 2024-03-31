@@ -1,5 +1,4 @@
 import React from 'react';
-import jsConf from '../../assets/images/JsConf.WebP';
 import s from './Proficiency.module.css';
 
 const Proficiency = () => {

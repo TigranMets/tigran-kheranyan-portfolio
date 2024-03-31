@@ -2,8 +2,8 @@ import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer'
 import Greeting from './Components/Greeting/Greeting';
 import Skills from './Components/Skills/Skills';
-import Proficiency from './Components/Proficiency/Proficiency.jsx';
-import BigProjects from './Components/BigProjects/BigProjects';
+import Proficiency from './Components/Proficiency/Proficiency';
+import Projects from './Components/Projects/Projects';
 // import Achievements from './Components/Achievements/Achievements';
 // import Blogs from './Components/Blogs/Blogs';
 import Experiences from './Components/Experiences/Experiences';
@@ -34,7 +34,7 @@ const App = () => {
         <Proficiency />
         <Experiences />
         <OpenSourceProjects />
-        <BigProjects />
+        <Projects />
         {/* <Achievements />
       <Blogs /> */}
         <Footer />
