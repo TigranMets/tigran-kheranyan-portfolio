@@ -11,43 +11,43 @@ const Proficiency = () => {
                 </div>
                 <div>
                     <p>JavaScript</p>
-                    <progress value='70' max='100'></progress>
+                    <progress value='80' max='100'></progress>
                 </div>
                 <div>
                     <p>Jquery</p>
-                    <progress value='30' max='100'></progress>
+                    <progress value='60' max='100'></progress>
                 </div>
                 <div>
                     <p>React</p>
-                    <progress value='30' max='100'></progress>
+                    <progress value='80' max='100'></progress>
                 </div>
                 <div>
                     <p>Wordpress</p>
-                    <progress value='30' max='100'></progress>
-                </div>
-                <div>
-                    <p>Math</p>
-                    <progress value='20' max='100'></progress>
-                </div>
-                <div>
-                    <p>Physics</p>
-                    <progress value='20' max='100'></progress>
-                </div>
-                <div>
-                    <p>English</p>
-                    <progress value='30' max='100'></progress>
-                </div>
-                <div>
-                    <p>Russian</p>
-                    <progress value='50' max='100'></progress>
-                </div>
-                <div>
-                    <p>Armenian</p>
                     <progress value='70' max='100'></progress>
                 </div>
                 <div>
-                    <p>Git and Github</p>
+                    <p>Math</p>
+                    <progress value='70' max='100'></progress>
+                </div>
+                <div>
+                    <p>Physics</p>
+                    <progress value='75' max='100'></progress>
+                </div>
+                <div>
+                    <p>English</p>
                     <progress value='80' max='100'></progress>
+                </div>
+                <div>
+                    <p>Russian</p>
+                    <progress value='75' max='100'></progress>
+                </div>
+                <div>
+                    <p>Armenian</p>
+                    <progress value='90' max='100'></progress>
+                </div>
+                <div>
+                    <p>Git and Github</p>
+                    <progress value='85' max='100'></progress>
                 </div>
                 <div>
                     <p>Googling</p>
