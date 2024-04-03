@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tigran-kheranyan-portfolio/static/css/main.ed3bbdb7.css",
-    "main.js": "/tigran-kheranyan-portfolio/static/js/main.89939b6b.js",
+    "main.js": "/tigran-kheranyan-portfolio/static/js/main.82fad318.js",
     "static/media/meAtTheSatelliteControlPanel.Webp": "/tigran-kheranyan-portfolio/static/media/meAtTheSatelliteControlPanel.dcb1ee57ab43e12f78f8.Webp",
     "static/media/carservicesWebsite.png": "/tigran-kheranyan-portfolio/static/media/carservicesWebsite.dd3dd769467b4af2abe6.png",
     "static/media/barbershopWebsite.png": "/tigran-kheranyan-portfolio/static/media/barbershopWebsite.bf2a10e293e72e4f4478.png",
@@ -11,10 +11,10 @@
     "static/media/hamburgerMenu.WebP": "/tigran-kheranyan-portfolio/static/media/hamburgerMenu.b54331c1e31025984bf3.WebP",
     "index.html": "/tigran-kheranyan-portfolio/index.html",
     "main.ed3bbdb7.css.map": "/tigran-kheranyan-portfolio/static/css/main.ed3bbdb7.css.map",
-    "main.89939b6b.js.map": "/tigran-kheranyan-portfolio/static/js/main.89939b6b.js.map"
+    "main.82fad318.js.map": "/tigran-kheranyan-portfolio/static/js/main.82fad318.js.map"
   },
   "entrypoints": [
     "static/css/main.ed3bbdb7.css",
-    "static/js/main.89939b6b.js"
+    "static/js/main.82fad318.js"
   ]
 }
